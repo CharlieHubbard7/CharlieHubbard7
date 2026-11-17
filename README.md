@@ -1,8 +1,8 @@
 ### Charlie Hubbard
 
-**[charliehubbard.org](https://charliehubbard.org)** · [Substack](https://charliehubbard.substack.com)
+**[charliehubbard.org](https://charliehubbard.org)**
 
-Information Systems and Statistics & Machine Learning at Carnegie Mellon. I'm curious about almost everything and build things about most of it.
+Information Systems and Statistics & Machine Learning at Carnegie Mellon.
 
 **Research**
 - [The Hand Stays Cold](https://github.com/CharlieHubbard7/college_golf): does a bad hole carry over in college golf? 1.58M holes, Clippd data, advised by Ron Yurko.
